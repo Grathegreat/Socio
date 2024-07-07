@@ -1,9 +1,9 @@
 #!/bin/bash
 
 ##   sociophisher 	: 	Automated Phishing Tool
-##   Author     	: 	ALEX BIEBER
+##   Author     	: 	MOT MOT OYAMAT
 ##   Version 	    : 	2.2
-##   Github 	    : 	https://github.com/alexbieber
+##   Github 	    : 	https://github.com/Grathegrear
 
 
 
@@ -87,9 +87,9 @@ banner() {
 banner_small() {
 	cat <<- EOF
 		${RED}    🔴       🔴 🔴🔴🔴🔴    😄😄
-		${RED}    🔴       🔴 🔴            😄😄😄      
+		${RED}    🔴       🔴 🔴           😄😄😄      
 		${RED}    🔴  🔴  🔴  🔴            😄😄😄😄
-		${RED}    🔴🔴  🔴🔴  🔴🔴🔴🔴     😄😄😄😄😄    WELCOME  !             ${WHITE} 2.2
+		${RED}    🔴🔴  🔴🔴  🔴🔴🔴🔴       😄😄😄😄😄    WELCOME  !             ${WHITE} 2.2
 	EOF
 }
 
@@ -251,7 +251,7 @@ about() {
 
 ## Setup website and start php server
 HOST='127.0.0.1'
-PORT='8080'
+PORT='4040'
 
 setup_site() {
 	echo -e "\n${RED}[${WHITE}-${RED}]${BLUE} Setting up server..."${WHITE}
