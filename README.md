@@ -57,7 +57,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/Grathegreat/socio.git
+$ git clone https://github.com/Grathegreat/Socio.git
 ```
 
 - Change to cloned directory and run `SocioPhish.sh` -
